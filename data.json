@@ -54,15 +54,36 @@
         "name": "Bangor Fish",
         "price" : 27500
     },
-    {
+     {
         "id" : 12,
+        "name": "Hotdog",
+        "price" : 19000
+    },
+    {
+        "id" : 13,
+        "name": "Chillidog",
+        "price" : 19500
+    },
+    {
+        "id" : 14,
+        "name": "Cheese Fries",
+        "price" : 19400
+    },
+    {
+        "id" : 15,
         "name": "Tea",
         "price" : 9500
     },
     {
-        "id" : 13,
+        "id" : 16,
         "name": "Soft Drink",
         "price" : 10500
+    },
+    {
+        "id" : 17,
+        "name": "Lemon Tea",
+        "price" : 15000
     }
+
     
 ]
